@@ -27,7 +27,6 @@
   },
   "homepage": "https://github.com/FaridSafi/react-native-gifted-listview#readme",
   "dependencies": {
-    "react-addons-shallow-compare": "^15.3.1",
     "react-native-gifted-spinner": "^0.0.4"
   }
 }
